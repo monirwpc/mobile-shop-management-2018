@@ -1,0 +1,82 @@
+.home img{
+	height: 60px;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+
+
+/* Insert Form css */
+
+.insertTable{
+	border:1px solid blue;
+	padding:50px;
+	background:green;
+	color:white;
+	border-radius:10px;
+}
+td input.insertSubmit:hover{
+	
+}
+.insert td input{
+	padding:50px;
+}
+.a input{
+	padding:8px 30px;
+}
+
+
+
+
+
+
+
+/* View Form css */
+/*
+.viewTable{
+	border-style:solid;
+	border-color:maroon;
+	width:970px;
+	text-align:center;
+}
+
+.viewTable tr{
+	background:gray;
+}
+
+.viewTable td{
+	color:white;
+	padding:10px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+}
+
+.viewTable th{
+	padding:12px;
+	font-size:22px;
+	color:yellow;
+}
+*/
+
+table.viewTable tr:nth-child(2n+1){background:#fff;height:30px;}
+table.viewTable tr:nth-child(2n){background:#f1f1f1;height:30px;}
+.viewTable td{
+	
+	padding:10px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+}
+
+.viewTable th{
+	padding:12px;
+	font-size:22px;
+	background:yellow;
+	
+}
+.viewTable{
+	border-style:solid;
+	border-color:maroon;
+	
+	text-align:center;
+}

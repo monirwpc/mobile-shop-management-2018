@@ -1,0 +1,53 @@
+body{
+	background:gray;
+}
+.container{
+	margin:0 auto;
+}
+.h1{
+	text-align:center;
+	color:white;
+}
+
+table#viewTable tr:nth-child(2n+1){background:#fff;}
+table#viewTable tr:nth-child(2n){background:#f1f1f1;}
+#viewTable td{
+	text-align:center;
+	
+}
+
+#viewTable tr{
+	
+}
+#viewTable th{
+	padding:8px;
+	font-size:18px;
+	background:yellow;
+	
+}
+#viewTable td input{
+	padding:7px 0;
+	text-align:center;
+	border:none;
+	font-size:12px;
+}
+#viewTable{
+	border-style:solid;
+	border-color:maroon;
+	
+	text-align:center;
+}
+
+.update{
+	text-align:center;
+	margin-left:48%;
+	padding:10px 20px;
+	background:green;
+	color:white;
+}
+
+.home img{
+	height: 60px;
+	margin-top: 25px;
+	margin-left: 30px;
+}
